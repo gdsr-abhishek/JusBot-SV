@@ -1,0 +1,4 @@
+flask
+qdrant-client
+transformers
+langchain 	
